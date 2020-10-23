@@ -22,6 +22,17 @@ Outros endpoints poderá ser acessado
 - POST /gestao-pedido/produto
 - GET /gestao-pedido/produto/{id}
 
+## Instalação
+
+* Clone o repositório para a sua máquina.
+* Instale o servidor Apache Tomcat 8.0 ou superior.
+* Instale o servidor mysql, crie um database gestao-pedido.
+* Na pasta src/main/resources, altere o application.properties
+
+## Histórico
+* 0.0.1
+    * Em desenvolvimento
+    
 # Feito no projeto
 
 - Testes automatizados 
